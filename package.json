@@ -1,0 +1,22 @@
+{
+    "name": "op-one",
+    "displayName": "OP-ONE",
+    "description": "VSCODE Theme based on Teenage Engineering's OP-1 - 2022 Update",
+    "version": "0.0.1",
+    "publisher": "aterruso",
+    "engines": {
+        "vscode": "^1.23.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "OP-ONE",
+                "uiTheme": "vs-dark",
+                "path": "./themes/OP-ONE-color-theme.json"
+            }
+        ]
+    }
+}
